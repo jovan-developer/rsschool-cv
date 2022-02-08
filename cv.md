@@ -3,6 +3,23 @@
 
 ***
 
+### Contact info
+* Email - jovan226@mail.ru
+* Discord - jovan#3520
+* Github - https://github.com/jovan-developer
+
+***
+
+### About me
+
+I started my career as an html developer almost 3 years ago.
+2 years of freelance, custom website development.
+I've been working for the company for the last year.
+
+But the results of my work do not satisfy me, and I decided to study as a React developer.
+
+***
+
 ### Skills
 
 * HTML and CSS
