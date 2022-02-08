@@ -59,7 +59,7 @@ function arrayDiff(a, b) {
 ### Education
 
 * Took HTML and CSS courses almost 3 years ago
-* Work in Frilance about 2 years
+* Work in Freelance about 2 years
 * I've been working for the company for the last year as frontend dev (vue and html + css)
 
 ***
