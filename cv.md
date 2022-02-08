@@ -28,6 +28,7 @@ But the results of my work do not satisfy me, and I decided to study as a React 
 * Javascript
 * Vue JS 2,3 (basic knoweledges and some commercial experience)
 * Git, Github (Have experience working in a team)
+* BEM methodology
 
 ***
 ### Code examples
