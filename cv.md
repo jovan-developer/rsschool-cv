@@ -36,3 +36,17 @@ function arrayDiff(a, b) {
   return resArr;
 }
 ``` 
+***
+
+### Education
+
+* Took HTML and CSS courses almost 3 years ago
+* Work in Frilance about 2 years
+* I've been working for the company for the last year as frontend dev (vue and html + css)
+
+***
+
+### Languages
+
+* __Russian__ - native speaker
+* __English__ - A2 or b1 (not sure)
