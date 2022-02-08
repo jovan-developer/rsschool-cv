@@ -67,4 +67,5 @@ function arrayDiff(a, b) {
 ### Languages
 
 * __Russian__ - native speaker
-* __English__ - A2 or b1 (not sure)
+* __English__ - A2 or B1. Advanced (C1) - (according to the online test at EFset www.efset.org)
+![efset english test](english.png "English test")
