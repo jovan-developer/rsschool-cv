@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://jovan-developer.github.io/rsschool-cv/cv.md
+https://github.com/jovan-developer/rsschool-cv/blob/gh-pages/cv.md
